@@ -1,6 +1,4 @@
-//Exercice1
-
-
+//Fonction de somme
 function sommer(tab){
   let somme = 0;
   for(let i=0;i <tab.length;i++){
